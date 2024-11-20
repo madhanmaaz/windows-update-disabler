@@ -1,6 +1,6 @@
 # windows update disabler
 
-### Build the source by running
+### Build the source by running, download [golang](https://go.dev/doc/install)
 ```bash
 go build -ldflags -H=windowsgui -o wud.exe wud.go
 ```
